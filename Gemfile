@@ -17,6 +17,8 @@ group :assets do
 end
 
 gem 'jquery-rails', '2.0.2'
+# gem 'coffee-script-source', '1.2.0'
+# gem 'execjs', '1.3.0'
 
 group :production do
   gem 'pg', '0.12.2'
